@@ -9,4 +9,6 @@ public class TenjinSecurityException extends Exception {
 	public TenjinSecurityException(String message, Throwable cause) {
 		super(message, cause);
 	}
+public void sample()
+{
 }
